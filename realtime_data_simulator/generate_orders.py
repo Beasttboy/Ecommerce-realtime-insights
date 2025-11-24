@@ -11,7 +11,7 @@ fake = Faker()
 EVENT_HUB_CONNECTION_STRING = (
     "Endpoint=sb://mn-ecommerce-namespace.servicebus.windows.net/;"
     "SharedAccessKeyName=RootManageSharedAccessKey;"
-    "SharedAccessKey=gv/dBOsIkgC54k+6Z+nKRFp/D6VwZOSHo+AEhID1xoo=;"
+    "SharedAccessKey=<shared_access_key"
     "EntityPath=ecommerce-orders"
 )
 
